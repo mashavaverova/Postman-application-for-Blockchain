@@ -60,7 +60,8 @@ const createBlock = (req, res, next) => {
     res.status(201).json(new ResponseModel({ statusCode: 201, data: block }));
     //console.log(block);
    
-      // Write to file books.json
+      // Write to file books.json and blocks.json
+      //!! need to ask Michael about this
     const blockData = block.data; 
     const folderName = 'data'; 
     let fileNameBooks = 'books.json';
