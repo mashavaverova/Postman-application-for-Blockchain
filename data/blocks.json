@@ -1,0 +1,15 @@
+[
+  {
+    "timestamp": 1715542013117,
+    "blockIndex": 3,
+    "previousBlockHash": "7d2161844a5dfb1558f3ee59ab7654721f3d61b68719529969be07d9b0167a22",
+    "currentBlockHash": "000185d37df9cef4d9d8a80cfc2de98f7a494062def133ae82c3eac54965c5f4",
+    "data": {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "published": "January 28, 1813",
+      "id": "9c0127df699b4e7bb0feaa359790c503"
+    },
+    "difficulty": 3
+  }
+]
